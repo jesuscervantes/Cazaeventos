@@ -1,0 +1,110 @@
+#cabecerita
+		{
+			width: 100%;
+			overflow: hidden;
+		}
+		.alogo
+		{
+			width: 150px;
+			float: left;
+		}
+		.alogo img
+		{
+			width: 100%;
+		}
+		.stitulo
+		{
+			float:left;
+			margin-left: 15px;
+			width:450px;
+			font-size: 35px;
+			font-weight: bold; 
+			margin-top: 35px;
+
+		}
+			#Seccion
+		{
+			overflow: hidden;
+			width: 100%;
+		}
+		#aizquierda
+		{
+			float: left;
+			width: 450px;
+		}
+		#aizquierda img
+		{
+			float: left;
+			width: 100px;
+		}
+
+		#aizquierda p
+		{
+			font-weight: bold;
+			font-size: 30px;
+			float: left;
+			margin-left: 50px;
+			width: 300px;
+		}
+
+
+		#aderecha
+		{
+			float: right;
+			width: 320px;
+
+		}
+
+		#aderecha input 
+		{
+			border-radius: 10px;
+			border:solid 1px;
+			border-color:#fff;
+			background-color: transparent;
+			color: #fff;
+			display: inline-block;
+			font-family: 'Baumans', cursive;
+			font-size: 16px;
+			margin-top: 30px;
+			padding: 5px;
+			text-align: center;
+			width: 150px;
+		}
+
+		#aderecha input[type=submit]
+		{
+			background-image:url(imagenes/fboton.png);
+			background-size: 100% 100%; 
+			color: #045aa7;
+			font-weight: bold;
+		}
+
+		.neg
+		{
+			margin-bottom: 5px;
+			font-size: 18px;
+			font-weight: bold;
+			margin-top: 5px;
+			
+		}
+		.hora
+		{
+			margin-top: 0px;
+			
+		}
+		.fec
+		{
+			font-size: 16px;
+			font-weight: normal;
+		}
+		.titulo
+		{
+			font-size: 20px;
+			font-weight: bold;
+		}
+		#dialog-confirm
+	{
+		width: 0;
+		height: 0;
+		overflow: hidden;
+	}

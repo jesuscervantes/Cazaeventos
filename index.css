@@ -1,0 +1,48 @@
+ #dialog
+    {
+    	overflow: hidden;
+    	width: 500px;
+    	padding: 10px;
+    }
+
+    #ui-id-1
+    {
+    	width: 50%;
+    	float: left;
+    	padding-left: 10px;
+    }
+    .ui-icon
+    {
+    	float: right;
+    }
+    #bus
+    {
+    	border-radius: 10px;
+    	margin-bottom: 10px;
+    	border:solid 1px;
+    	padding:7px;
+    	width: 100%; 
+      }
+      #dialog
+      {
+        display:none;
+      }
+      
+     #dialog input[type="Search"]
+    {
+        background-color:#fff;
+        background-image:none;
+        border-color:#fff;
+        width: 95%;  
+    }
+    @media screen and (-webkit-min-device-pixel-ratio:0){
+        #dialog input[type="Search"]
+            {
+                width: 100%;
+            }
+    }
+    
+
+
+
+   

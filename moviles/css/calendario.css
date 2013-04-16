@@ -1,0 +1,212 @@
+#principal
+		{
+			max-width: 30px;
+			font-family: 'Baumans', cursive;
+		}
+
+		#principal img
+		{
+			width: 100%;
+			height: 100%;
+		}
+		.nombre
+		{
+		
+			width: 225px;
+		
+			margin-top:20px;
+			font-size: 24px;
+			text-align: center;
+			font-family: 'Baumans', cursive;
+		
+		}
+
+	.logo
+		{
+			width: 300px;
+			margin: auto;
+			margin-top: 15px;
+			overflow: hidden;
+			font-family: 'Baumans', cursive;
+			
+		
+		}
+
+		#eventosp
+		{
+			font-family: 'Baumans', cursive;
+			
+		}
+
+
+		h1
+		{
+			font-size: 18px;
+			text-align: right;
+			margin-top: 0px;
+			/*border: solid 1px;*/
+			float: left;
+
+		}
+		.imagen
+		{
+			width: 70px;
+			
+			/*border: solid 1px;*/
+			float: left;
+			overflow: hidden;
+
+
+		}
+		.imagen img
+		{
+			width:70px;
+			height: 80px;
+		}
+	
+		
+		#lugares 
+		{
+
+			float: left;
+			width: 30px;
+		
+			/*border:solid 1px;
+			margin-right: 10px;*/
+		    margin: auto;
+			overflow: hidden;
+			
+
+		}
+	
+		
+		#primera
+		{
+			
+			
+			padding-bottom: 50px;
+			
+			margin:auto;
+
+		}
+
+		.cabecera
+		{
+			overflow: hidden;
+			height:40px;
+		}
+
+		.cabecera img
+		{
+			width: 240px;
+			margin-top: -8px;
+
+		}
+
+		#categorias
+		{
+			width: 100%;
+			
+		}
+		#categorias img
+		{
+			width: 62px;
+			height: 62px;
+
+		}
+
+		#categorias img:hover
+		{
+			cursor: pointer;
+		}
+		#tercera
+		{
+			min-height:300px;
+
+		}
+		#todos
+		{
+			color:#fff;
+			font-family: 'Baumans', cursive;
+			margin-top: 15px;
+			padding: 8px;
+			border-radius: 5px;
+			background: -webkit-gradient(linear, 0 0, 0 bottom, from(#023d73), to(#085498));
+			background: -webkit-linear-gradient(#023d73, #085498);
+			background: -moz-linear-gradient(#023d73, #085498);
+			background: -ms-linear-gradient(#023d73, #085498);
+			background: -o-linear-gradient(#023d73, #085498);
+			background: linear-gradient(#023d73, #085498);
+			-pie-background: linear-gradient(#023d73, #085498);
+			behavior: url(PIE.htc);
+			border:solid 1px;
+			border-color: #fff;
+			text-align: center;
+			font-weight: bold;
+			box-shadow: 0px 3px 10px #000;
+		}
+
+		#todos:hover
+		{
+			background: -webkit-gradient(linear, 0 0, 0 bottom, from(#5898c8), to(#5898c8));
+			background: -webkit-linear-gradient(#5898c8, #5898c8);
+			background: -moz-linear-gradient(#5898c8, #5898c8);
+			background: -ms-linear-gradient(#5898c8, #5898c8);
+			background: -o-linear-gradient(#5898c8, #5898c8);
+			background: linear-gradient(#5898c8, #5898c8);
+			-pie-background: linear-gradient(#5898c8, #5898c8);
+			border:solid 1px;
+			behavior: url(PIE.htc);
+			color:#fff;
+			cursor:pointer;
+		}
+
+
+		a
+		{
+			color: #fff;
+		}
+		h2
+		{
+			font-size: 16px;
+			font-weight: normal;
+			font-family: 'Baumans', cursive;
+			margin-top: 15px;
+			float: left;
+		}
+
+		#ajax
+		{
+			overflow: hidden;
+		}
+
+		.ui-input-datebox
+		{
+			background-color: #fff;
+			width: 99%;
+			margin: auto;
+			color:#000;
+			margin-top: 20px;
+		}
+
+		#fechac
+		{
+			color:#000;
+			font-family: 'Baumans', cursive;
+			font-weight: bold;
+			
+			border:solid 1px;
+			text-align: center;
+
+		}
+		.cal
+		{
+			float: right;
+		}
+
+		.ui-link-inherit,.ui-li-divider,.ui-btn-text
+		{
+			font-family: 'Baumans', cursive;
+		}
+
+

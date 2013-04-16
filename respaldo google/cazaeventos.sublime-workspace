@@ -1,0 +1,1184 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lat",
+				"LatLng"
+			],
+			[
+				"en",
+				"enviarMensaje"
+			],
+			[
+				"re",
+				"recibirMensaje"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"a",
+				"activo"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"margin-r",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"cam",
+				"cambio2"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"article",
+				"article"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"section",
+				"section"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"la",
+				"loadScript"
+			],
+			[
+				"menu",
+				"menub"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"categor",
+				"categoria"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"bus",
+				"buscar"
+			],
+			[
+				"cat",
+				"catcoords"
+			],
+			[
+				"fec",
+				"fechacoords"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"e",
+				"encontrar"
+			],
+			[
+				"metodo",
+				"metodo2"
+			],
+			[
+				"me",
+				"metodo2"
+			],
+			[
+				"lca",
+				"localizar"
+			],
+			[
+				"lati",
+				"latitud"
+			],
+			[
+				"lon",
+				"longitud"
+			],
+			[
+				"loca",
+				"localizacion"
+			],
+			[
+				"Ta",
+				"Tamaulipas"
+			],
+			[
+				"sin",
+				"sinaloa"
+			],
+			[
+				"P",
+				"Potosí"
+			],
+			[
+				"L",
+				"Luis"
+			],
+			[
+				"S",
+				"San"
+			],
+			[
+				"ro",
+				"roo"
+			],
+			[
+				"le",
+				"leon"
+			],
+			[
+				"na",
+				"nayarit"
+			],
+			[
+				"M",
+				"Morelos"
+			],
+			[
+				"G",
+				"Guerrero"
+			],
+			[
+				"fe",
+				"federal"
+			],
+			[
+				"dis",
+				"distrito"
+			],
+			[
+				"C",
+				"Chihuahua"
+			],
+			[
+				"ca",
+				"campeche"
+			],
+			[
+				"f",
+				"footer	Tag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"E",
+				"Ebusqueda"
+			],
+			[
+				"long",
+				"longitud"
+			],
+			[
+				"Ser",
+				"Search"
+			],
+			[
+				"Mo",
+				"modernizr"
+			],
+			[
+				"cn",
+				"contacto"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"aa",
+				"azquierda"
+			],
+			[
+				"con",
+				"contador"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"coor",
+				"coordenadas"
+			],
+			[
+				"lo",
+				"longitud"
+			],
+			[
+				"latitu",
+				"latitud0"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"al",
+				"alogo"
+			],
+			[
+				"coo",
+				"coordenada1"
+			],
+			[
+				"im",
+				"Imagen"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"pro",
+				"proximos"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"to",
+				"totWidth"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bacgr",
+				"background"
+			],
+			[
+				"de",
+				"derecho"
+			],
+			[
+				"sec",
+				"seccion"
+			],
+			[
+				"ul",
+				"ultimo"
+			],
+			[
+				"so",
+				"social"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"luz",
+				"luz1"
+			],
+			[
+				"ingres",
+				"ingresar"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"eve",
+				"eventt"
+			],
+			[
+				"cos",
+				"coords0"
+			],
+			[
+				"cor",
+				"coords0"
+			],
+			[
+				"aler",
+				"alert1"
+			],
+			[
+				"alert",
+				"alert0"
+			],
+			[
+				"rad",
+				"radios"
+			],
+			[
+				"aja",
+				"ajaxmolde"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Cercanos.php",
+			"settings":
+			{
+				"buffer_size": 2505,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/localizacion.js",
+			"settings":
+			{
+				"buffer_size": 5295,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "estilonormal.css",
+			"settings":
+			{
+				"buffer_size": 5520,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5876,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Eventos.php",
+			"settings":
+			{
+				"buffer_size": 2796,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/cercanos.css",
+			"settings":
+			{
+				"buffer_size": 1520,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pie.css",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Conexion.php",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 307.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Conexion.php",
+		"/C/AppServ/www/cazaeventos/css/eventos.css",
+		"/C/AppServ/www/cazaeventos/Evento.php",
+		"/C/AppServ/www/Curso/node/index.php",
+		"/C/Program Files/nodejs/Servidor.js",
+		"/C/Program Files/nodejs/node_modules/socket.io/index.js",
+		"/C/AppServ/www/Cardenas/css/style.css",
+		"/C/AppServ/www/Cardenas/index.php",
+		"/C/AppServ/www/cazaeventos/style.css",
+		"/C/AppServ/www/Curso/estilos.css",
+		"/C/AppServ/www/Curso/index.html",
+		"/C/AppServ/www/Cardenas/css/index.css",
+		"/C/AppServ/www/cazaeventos/Vistas/cabecera.php",
+		"/C/AppServ/www/cazaeventos/cabecera.psd",
+		"/C/AppServ/www/Curso/index.php",
+		"/C/AppServ/www/cazaeventos/index.php",
+		"/C/AppServ/www/cazaeventos/Cercanos.php",
+		"/C/AppServ/www/cazaeventos/js/confirmacion.js",
+		"/C/AppServ/www/cazaeventos/js/localizacion.js",
+		"/C/AppServ/www/cazaeventos/js/cercanos.js",
+		"/C/AppServ/www/cazaeventos/Proximos.php",
+		"/C/AppServ/www/cazaeventos/Busquedas.php",
+		"/C/AppServ/www/cazaeventos/css/busqueda.css",
+		"/C/AppServ/www/cazaeventos/css/index.css",
+		"/C/AppServ/www/Curso/codigo.js",
+		"/C/AppServ/www/Geolocalizacion/base.php",
+		"/C/Users/eljebus/Desktop/.htaccess",
+		"/C/Users/eljebus/AppData/Roaming/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/C/AppServ/www/cazaeventos/Conexion.php",
+		"/C/Users/eljebus/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Proximos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Calendario.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/moldec.php",
+		"/C/AppServ/www/cazaeventos/moviles/index.php",
+		"/C/AppServ/www/cazaeventos/Contacto.php",
+		"/C/AppServ/www/cazaeventos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/css/contacto.css",
+		"/C/AppServ/www/Curso/prefixfree.js",
+		"/C/AppServ/www/Curso/normalize.css",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/menu.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/dos.php",
+		"/C/AppServ/www/cazaeventos/moviles/js/localizacion.js",
+		"/C/AppServ/www/cazaeventos/moviles/js/paginas.js",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/uno.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/moldec.php",
+		"/C/AppServ/www/Geolocalizacion/js/param.js",
+		"/C/AppServ/www/Geolocalizacion/js/paginas.js",
+		"/C/AppServ/www/cazaeventos/moviles/css/index.css",
+		"/C/AppServ/www/cazaeventos/js/coordenadas.js",
+		"/C/AppServ/www/cazaeventos/Modelos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/moviles/css/localizacion.css",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/moldev.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/Evento.php",
+		"/C/AppServ/www/cazaeventos/moviles/css/calendario.css",
+		"/C/AppServ/www/cazaeventos/moviles/themes/estilo.css",
+		"/C/AppServ/www/cazaeventos/moviles/themes/estilo.min.css",
+		"/C/AppServ/www/cazaeventos/moviles/js/param.js",
+		"/C/AppServ/www/prueba/index.php",
+		"/C/AppServ/www/cazaeventos/js/mapa.js",
+		"/C/Users/eljebus/Desktop/h5bp-html5-boilerplate-3bc5ed9/js/main.js",
+		"/C/Users/eljebus/Desktop/h5bp-html5-boilerplate-3bc5ed9/js/plugins.js",
+		"/C/Users/eljebus/Desktop/h5bp-html5-boilerplate-3bc5ed9/index.html",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/busqueda.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/categoriass.php",
+		"/C/AppServ/www/estados/index.php",
+		"/C/AppServ/www/estados/css/style.css",
+		"/C/AppServ/www/estados/estado.php",
+		"/C/AppServ/www/cazaeventos/Modelos/categoria.php",
+		"/C/AppServ/www/cazaeventos/css/cercanos.css",
+		"/C/AppServ/www/cazaeventos/Modelos/busquedas.php",
+		"/C/AppServ/www/cazaeventos/css/evento.css",
+		"/C/AppServ/www/cazaeventos/Modelos/molde.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/registro.js",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Admin.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/admincarro.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/adminpaquetes.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Paquetes_clientes.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/paquete_admin.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Admin_galeria.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Admin_galeria 2.php",
+		"/C/AppServ/www/xtremo/js/carro.js",
+		"/C/AppServ/www/cazaeventos/Vistas/letras.php",
+		"/C/AppServ/www/cazaeventos/Vistas/logo.php",
+		"/C/AppServ/www/xtremo/Contacto.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/resultado.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/resultados.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/categorias.php",
+		"/C/AppServ/www/cazaeventos/moviles/base.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Calendario.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/categorias.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/busqueda.php",
+		"/C/AppServ/www/cazaeventos/moviles/geolocalizacion.php",
+		"/C/AppServ/www/cazaeventos/js/contacto.js",
+		"/C/AppServ/www/xtremo/header.php",
+		"/C/AppServ/www/xtremo/index.php",
+		"/C/AppServ/www/cazaeventos/js/modernizr.js",
+		"/C/AppServ/www/cazaeventos/Vistas/pie.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/base.php",
+		"/C/AppServ/www/cazaeventos/moviles/index.html",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/molde.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/correo.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/categoria.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Eventos.php",
+		"/C/AppServ/www/Geolocalizacion/Modelos/resultado.php",
+		"/C/AppServ/www/Geolocalizacion/Modelos/Eventos.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Cercanos.php",
+		"/C/AppServ/www/Geolocalizacion/Modelos/Evento.php",
+		"/C/AppServ/www/Geolocalizacion/Modelos/busqueda.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/estilonormal.css",
+		"/C/AppServ/www/cazaeventos/js/ajax.js",
+		"/C/AppServ/www/cazaeventos/Modelos/correo.php",
+		"/C/AppServ/www/xtremo/js/clave.js",
+		"/C/AppServ/www/xtremo/js/registro.js",
+		"/C/AppServ/www/mejorada/Contacto.php",
+		"/C/AppServ/www/mejorada/index.php",
+		"/C/AppServ/www/mejorada/cabecera.html",
+		"/C/AppServ/www/cazaeventos/css/start/jquery-ui-1.9.1.custom.css",
+		"/C/AppServ/www/cazaeventos/js/jquery-ui-1.9.1.custom.js",
+		"/C/AppServ/www/cazaeventos/mac.php",
+		"/C/AppServ/www/Geolocalizacion/index.php",
+		"/C/AppServ/www/descarga jamay/css/estilog.css",
+		"/C/AppServ/www/n/index.html",
+		"/C/AppServ/www/Geolocalizacion/Vistas/categorias.php",
+		"/C/AppServ/www/cazaeventos/pie.css",
+		"/C/AppServ/www/Geolocalizacion/js/localizacion.js"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sensor",
+			"izq",
+			"iz",
+			"dashe",
+			"foo",
+			"slider",
+			"figcaption",
+			"hover",
+			"diviso",
+			"das",
+			"producto ul",
+			"producto",
+			"centro",
+			"text",
+			"infer",
+			"#secciones",
+			"busqueda",
+			"border:dashed 1px;",
+			"input",
+			"<li class=\"hijos\">PRODUCTOS</li>",
+			">\n",
+			"<li class=\"hijos\">PRODUCTOS</li>",
+			"overflow: hidden;",
+			"border:dashed 1px;",
+			"text-s",
+			"border:dashed 1px;\nborder:dashed 1px;",
+			"border:dashed 1px;",
+			"border:dashed 1px;\nborder:dashed 1px;",
+			"border:dashed 1px;",
+			"border:dashed 1px;\nborder:dashed 1px;",
+			"border:dashed 1px;",
+			"#personalizacion #llantas figure img,\n#personalizacion #techo figure img,\n{\n	max-width: 100%;\n	transition: all 1s ease;\n	\n}",
+			"#personalizacion #llantas figure img,",
+			"<h2>Elige un llantas</h2>",
+			"<h2>Elige un color</h2>",
+			"				\n",
+			"<h2>Elige un color</h2>",
+			">\n",
+			"\n				<article",
+			"				<",
+			"article>\n				",
+			">\n",
+			"<h2>Elige un color</h2>",
+			">\n",
+			"<h2>Elige un color</h2>",
+			">\n",
+			"<h2>Elige un color</h2>",
+			"<figure id=\"llanta1\">\n						<img src=\"llanta1.png\"/>\n						<figcaption>\n							caras\n						</figcaption>\n						\n					</figure>\n",
+			"transition:all 1s linear;",
+			"transform:scale(1.2);",
+			"text-shadow:rgba(255,255,255,0.5) 5px 5px 10px;",
+			"\n							",
+			"\n		<? include 'Vistas/pie.php'; ?>\n",
+			"\n		<? include 'Vistas/pie.php'; ?>",
+			"enviar",
+			"molde",
+			"mostrar",
+			"buscar",
+			"#to",
+			".ui-btn-inner",
+			"ui-btn-inner",
+			"menu",
+			"menub",
+			"color",
+			"menu",
+			"data",
+			"gree",
+			"data",
+			"info",
+			"descripcion",
+			"e2e3e3",
+			"045aa7",
+			"color:#045aa7",
+			"color:045aa7",
+			"color",
+			"#efecha",
+			"efecha",
+			".css(",
+			".css",
+			"radius:",
+			"radius:9",
+			"radiu",
+			"inpu",
+			"fon",
+			"input",
+			"fon",
+			"loadScript",
+			"mostrar",
+			"molde",
+			"categoria(",
+			"#molde",
+			"coordenadas",
+			"molde",
+			"moldev",
+			"mapa(",
+			"mostrar",
+			"radiu",
+			"moldev",
+			"categor",
+			"moldec",
+			"ubicacion",
+			"encontrar",
+			"ubicacion",
+			"ubicacio",
+			"tres",
+			"1",
+			"echo",
+			"echo \"1\"",
+			"5",
+			"1234",
+			"5",
+			"echo\"2\"",
+			"echo \"1\"",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+			"pie",
+			"descripcion",
+			"<?",
+			"SELECT Archivo,Nombre from Imagenes where Id IN(SELECT Icono from Categoria)",
+			"../",
+			"type",
+			"border:so",
+			"fb",
+			"@",
+			"event.p",
+			"30px",
+			"#337ce1",
+			"font-fa",
+			"parrafos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Cercanos.php",
+					"settings":
+					{
+						"buffer_size": 2505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 35.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/localizacion.js",
+					"settings":
+					{
+						"buffer_size": 5295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1459,
+								1459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2688.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "estilonormal.css",
+					"settings":
+					{
+						"buffer_size": 5520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 5876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1498,
+								1498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 385.0,
+						"translation.y": 1353.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Eventos.php",
+					"settings":
+					{
+						"buffer_size": 2796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								796,
+								796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 98.0,
+						"translation.y": 392.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/cercanos.css",
+					"settings":
+					{
+						"buffer_size": 1520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1510,
+								1510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2184.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pie.css",
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Conexion.php",
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 104.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 57.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}

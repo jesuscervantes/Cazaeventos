@@ -1,0 +1,117 @@
+[21-Nov-2012 20:32:13 UTC] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/m/Conexion.php on line 10
+[21-Nov-2012 20:32:13 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 11
+[21-Nov-2012 20:32:13 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:32:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:34:48 UTC] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/m/Conexion.php on line 10
+[21-Nov-2012 20:34:48 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 11
+[21-Nov-2012 20:34:48 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:34:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:36:36 UTC] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/m/Conexion.php on line 10
+[21-Nov-2012 20:36:36 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 11
+[21-Nov-2012 20:36:36 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:36:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:36:48 UTC] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/m/Conexion.php on line 10
+[21-Nov-2012 20:36:48 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 11
+[21-Nov-2012 20:36:48 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:36:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:37:58 UTC] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/m/Conexion.php on line 10
+[21-Nov-2012 20:37:58 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 11
+[21-Nov-2012 20:37:58 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:37:58 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:38:37 UTC] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/m/Conexion.php on line 10
+[21-Nov-2012 20:38:37 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 11
+[21-Nov-2012 20:38:37 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/m/Conexion.php on line 38
+[21-Nov-2012 20:38:37 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 38
+[25-Nov-2012 00:44:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cazaeven/public_html/m/Conexion.php on line 23
+[26-Nov-2012 17:07:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cazaeven/public_html/m/Conexion.php on line 23
+[26-Nov-2012 17:10:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cazaeven/public_html/m/Conexion.php on line 23
+[26-Nov-2012 17:10:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cazaeven/public_html/m/Conexion.php on line 23
+[30-Nov-2012 21:58:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[30-Nov-2012 21:58:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[02-Jan-2013 14:56:53 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[02-Jan-2013 16:11:30 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:12:18 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:12:28 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:12:33 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:12:35 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:12:35 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:12:36 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:13:51 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:13:53 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:13:54 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:13:56 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:13:58 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Modelos/Evento.php on line 6
+[02-Jan-2013 16:14:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cazaeven/public_html/m/Conexion.php on line 23
+[19-Jan-2013 13:26:02 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[19-Jan-2013 13:26:13 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[19-Jan-2013 16:49:22 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[21-Jan-2013 16:07:13 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/m/Conexion.php on line 39
+[21-Jan-2013 16:07:13 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[21-Jan-2013 16:07:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cazaeven/public_html/m/Conexion.php on line 23

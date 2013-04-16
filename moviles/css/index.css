@@ -1,0 +1,168 @@
+body
+{
+	font-size: 20px;
+	font-family: 'Baumans', cursive;
+}
+#primera
+{
+	background-image: url(http://cazaeventos.com/imagenes/fondo.jpg);
+	background-size:100% 100%;
+	-moz-background-size:100% 100%;
+-o-background-size:100% 100%;
+-webkit-background-size:100% 100%;
+-khtml-background-size:100% 100%;
+	background-repeat: no-repeat;
+	height: 100%;
+
+
+}
+#logo
+{
+	max-width: 280px;
+	margin-top: 0px;
+}
+
+#one
+{
+	background-color:#002445; 
+}
+#opciones
+{
+	overflow: hidden;
+	font-family: 'Baumans', cursive;
+}
+#opciones ul
+{
+	list-style: none;
+	margin-left: -10px;
+	padding-left: 0px;
+	margin-top: 25px;
+
+
+}
+#opciones ul li
+{
+	display: inline-block;
+	width: 48%;
+
+	
+	overflow: hidden;
+	margin-bottom: 10px;
+	
+	margin-left: 0px;
+	font-family: 'Baumans', cursive;
+
+
+}
+#opciones li img
+{
+
+	height: 120px;
+	margin: auto;
+	max-width: 200px;
+}
+#opciones li p
+{
+	margin-top: 0px;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	font-family: 'Baumans', cursive;
+	width: 100%;
+
+}
+#opciones a
+{
+	text-decoration: none;
+}
+#slogan
+{
+	color: #0c4777;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: 'Baumans', cursive;
+	
+	text-shadow: 1px 1px 10px #FFF;
+}
+#pie,.pie
+{
+	overflow: hidden;
+	width: 100%;
+	background-image: url(http://cazaeventos.com/imagenes/pie.png);
+	-moz-background-size:100% 100%;
+-o-background-size:100% 100%;
+-webkit-background-size:100% 100%;
+-khtml-background-size:100% 100%;
+	background-repeat: no-repeat;
+	font-family: 'Baumans', cursive;
+	background-repeat:repeat;
+
+	
+}
+#pie
+{
+	font-size: 0;
+}
+#pie p
+{
+	display: inline-block;
+	width: 47%;
+
+	font-size: 16px;
+	font-weight: bold;
+	font-family: 'Baumans', cursive;
+	padding:1%; 
+	
+}
+#pie img
+{
+	width: 70px;
+}
+
+#menub a,#registrof input,.titulos,.texto
+
+{
+	font-family: 'Baumans', cursive;
+	
+}
+
+#registrof input,.titulos
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+.titulos
+{
+	font-size: 20px;
+}
+
+.texto
+{
+	text-align: center;
+}
+
+#pie a
+{
+	text-decoration: none;
+}
+#menu
+{
+	color: #fff;
+}
+#menub li a,#menub li
+{
+	font-size: 20px;
+}
+
+#primera,#segunda,#busqueda,#terceraa,#cuarta,#resultado,#formulario
+{
+	min-height: 480px;
+}
+	#mapa-canvas
+	{
+		height:200px;
+		margin-top:0px;
+		margin-bottom:0px;
+	}
+

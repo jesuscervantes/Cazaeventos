@@ -1,0 +1,1196 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"markers"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"l",
+				"longitud"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"la",
+				"latitud"
+			],
+			[
+				"lon",
+				"lon"
+			],
+			[
+				"lati",
+				"latitude"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"ad",
+				"addMarker"
+			],
+			[
+				"as",
+				"asignarVariables"
+			],
+			[
+				"LAT",
+				"latitud"
+			],
+			[
+				"LON",
+				"longitud"
+			],
+			[
+				"u",
+				"updateMapa"
+			],
+			[
+				"do",
+				"domicilio"
+			],
+			[
+				"mapa",
+				"mapaDirection"
+			],
+			[
+				"inc",
+				"iniciar"
+			],
+			[
+				"my",
+				"myicon"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"ge",
+				"geoCodeURL"
+			],
+			[
+				"dis",
+				"display_name"
+			],
+			[
+				"direc",
+				"direccion"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"mos",
+				"mostrarDireccion"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"asi",
+				"asingarVariables"
+			],
+			[
+				"maa",
+				"mapaDirection"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"loca",
+				"localizar"
+			],
+			[
+				"loc",
+				"localizar"
+			],
+			[
+				"ac",
+				"actualizar"
+			],
+			[
+				"element",
+				"elemento"
+			],
+			[
+				"CON",
+				"console"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"lonla",
+				"lonlat"
+			],
+			[
+				"to",
+				"toProjection"
+			],
+			[
+				"TO",
+				"toProjection"
+			],
+			[
+				"a",
+				"actual"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"MAR",
+				"margin-bottom"
+			],
+			[
+				"FON",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fech",
+				"fechaFinal"
+			],
+			[
+				"dife",
+				"diferencia"
+			],
+			[
+				"fec",
+				"fechaFinal"
+			],
+			[
+				"die",
+				"diferenciaSegundos"
+			],
+			[
+				"fecha",
+				"fechaActual"
+			],
+			[
+				"di",
+				"diferenciaHoras2"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"Fecha",
+				"Fecha_final"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"es",
+				"estado"
+			],
+			[
+				"ini",
+				"Inicio"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"magi",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Fecha_",
+				"Fecha_inicio"
+			],
+			[
+				"cr",
+				"cursor"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"form",
+				"form-direction"
+			],
+			[
+				"en",
+				"enviarMensaje"
+			],
+			[
+				"re",
+				"recibirMensaje"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"margin-r",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"cam",
+				"cambio2"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"article",
+				"article"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"section",
+				"section"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"menu",
+				"menub"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"categor",
+				"categoria"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"bus",
+				"buscar"
+			],
+			[
+				"cat",
+				"catcoords"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"e",
+				"encontrar"
+			],
+			[
+				"metodo",
+				"metodo2"
+			],
+			[
+				"me",
+				"metodo2"
+			],
+			[
+				"lca",
+				"localizar"
+			],
+			[
+				"Ta",
+				"Tamaulipas"
+			],
+			[
+				"sin",
+				"sinaloa"
+			],
+			[
+				"P",
+				"Potosí"
+			],
+			[
+				"L",
+				"Luis"
+			],
+			[
+				"S",
+				"San"
+			],
+			[
+				"ro",
+				"roo"
+			],
+			[
+				"le",
+				"leon"
+			],
+			[
+				"na",
+				"nayarit"
+			],
+			[
+				"M",
+				"Morelos"
+			],
+			[
+				"G",
+				"Guerrero"
+			],
+			[
+				"fe",
+				"federal"
+			],
+			[
+				"C",
+				"Chihuahua"
+			],
+			[
+				"ca",
+				"campeche"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "moviles/js/direccion.js",
+			"settings":
+			{
+				"buffer_size": 3654,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 5976,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5962,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "moviles/js/localizacion.js",
+			"settings":
+			{
+				"buffer_size": 8079,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "moviles/js/paginas.js",
+			"settings":
+			{
+				"buffer_size": 4098,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/mapa.js",
+			"settings":
+			{
+				"buffer_size": 1980,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/evento.css",
+			"settings":
+			{
+				"buffer_size": 1196,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "moviles/css/index.css",
+			"settings":
+			{
+				"buffer_size": 2172,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 307.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/AppServ/www/cazaeventos/js/localizacion.js",
+		"/C/AppServ/www/cazaeventos/letrero.png",
+		"/C/AppServ/www/cazaeventos/css/index.css",
+		"/C/AppServ/www/cazaeventos/moviles/css/index.css",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/moldev.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Evento.php",
+		"/C/AppServ/www/cazaeventos/moviles/js/localizacion.js",
+		"/C/AppServ/www/cazaeventos/Cercanos.php",
+		"/C/AppServ/www/cazaeventos/moviles/js/paginas.js",
+		"/C/AppServ/www/cazaeventos/index.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/AppServ/www/cazaeventos/js/direccion.js",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/Evento.php",
+		"/C/AppServ/www/cazaeventos/respaldo google/m/js/localizacion.js",
+		"/C/AppServ/www/cazaeventos/respaldo google/m/js/direccion.js",
+		"/C/AppServ/www/cazaeventos/moviles/index.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/dos.php",
+		"/C/AppServ/www/cazaeventos/moviles/base.php",
+		"/C/AppServ/www/cazaeventos/c.jpg",
+		"/D/Respaldo 7/paginas/xamayxtremo_rs/prueba/crear_base.php",
+		"/D/Respaldo 7/paginas/poo/crear_base.php",
+		"/D/Respaldo 7/paginas/proyecto_Jamay/Proyecto_gera/crear_base.php",
+		"/C/AppServ/www/cazaeventos/Vistas/pie.php",
+		"/C/AppServ/www/cazaeventos/css/evento.css",
+		"/C/AppServ/www/cazaeventos/js/mapa.js",
+		"/C/AppServ/www/cazaeventos/Evento.php",
+		"/C/AppServ/www/cazaeventos/js/cercanos.js",
+		"/C/AppServ/www/cazaeventos/js/confirmacion.js",
+		"/C/AppServ/www/cazaeventos/css/cercanos.css",
+		"/C/AppServ/www/OSM/index.php",
+		"/C/Users/eljebus/AppData/Local/Temp/WER-41293-0.sysdata.xml",
+		"/C/AppServ/www/cazaeventos/respaldo google/js/localizacion.js",
+		"/C/AppServ/www/OSM/test2.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Cercanos.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Conexion.php",
+		"/C/AppServ/www/cazaeventos/test.php",
+		"/C/Users/Jesus/AppData/Local/Temp/fz3temp-1/localizacion.js",
+		"/C/AppServ/www/cazaeventos/js/confirm.js",
+		"/C/AppServ/www/cazaeventos/Modelos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/Modelos/busquedas.php",
+		"/C/AppServ/www/cazaeventos/Modelos/cat.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/resultado.php",
+		"/C/Users/Jesus/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jesus/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/AppServ/www/cazaeventos/Proximos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/uno.php",
+		"/C/Users/eljebus/Desktop/.htaccess",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/uno.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Eventos.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/AppServ/www/mejorada/mod.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Admin_galery.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Prox.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/moldec.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/categorias.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/categoriass.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/localizacion.js",
+		"/C/AppServ/www/Cardenas/.htaccess",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/busqueda.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Calendario.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/resultados.php",
+		"/C/AppServ/www/cazaeventos/moviles/css/localizacion.css",
+		"/C/AppServ/www/cazaeventos/contador.php",
+		"/C/AppServ/www/cazaeventos/js/regresiva.js",
+		"/C/AppServ/www/cazaeventos/style.css",
+		"/C/AppServ/www/cazaeventos/cel.png",
+		"/C/AppServ/www/cazaeventos/Eventos.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/cat.php",
+		"/C/AppServ/www/cazaeventos/Busquedas.php",
+		"/C/AppServ/www/cazaeventos/Modelos/categoria.php",
+		"/F/Docs/jcg/eduardo/consarray.php",
+		"/F/Docs/jcg/Base de Datos/rentas.php",
+		"/F/Docs/jcg/Base de Datos/registro de cliente.php",
+		"/F/Docs/jcg/Base de Datos/conectar.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/paginas.js",
+		"/C/AppServ/www/cazaeventos/Vistas/cabecera.php",
+		"/C/AppServ/www/cazaeventos/Vistas/letras.php",
+		"/C/AppServ/www/cazaeventos/Vistas/logo.php",
+		"/C/AppServ/www/cazaeventos/cabecera.png",
+		"/C/AppServ/www/cazaeventos/css/busqueda.css",
+		"/C/AppServ/www/cazaeventos/.htaccess",
+		"/C/AppServ/www/Cardenas/Empresa.php",
+		"/C/AppServ/www/Cardenas/index.php",
+		"/C/AppServ/www/cazaeventos/css/eventos.css",
+		"/C/AppServ/www/Cardenas/css/style.css",
+		"/C/AppServ/www/cazaeventos/moviles/js/direccion.js",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/confirmacion.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Proximos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/categoriass.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/busqueda.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/menu.php",
+		"/C/AppServ/www/Curso/estilos.css",
+		"/C/AppServ/www/cazaeventos/estilonormal.css",
+		"/C/AppServ/www/cazaeventos/pie.css",
+		"/C/AppServ/www/cazaeventos/Conexion.php",
+		"/C/AppServ/www/Curso/node/index.php",
+		"/C/Program Files/nodejs/Servidor.js",
+		"/C/Program Files/nodejs/node_modules/socket.io/index.js",
+		"/C/AppServ/www/Curso/index.html",
+		"/C/AppServ/www/Cardenas/css/index.css",
+		"/C/AppServ/www/cazaeventos/cabecera.psd",
+		"/C/AppServ/www/Curso/index.php",
+		"/C/AppServ/www/Curso/codigo.js",
+		"/C/AppServ/www/Geolocalizacion/base.php",
+		"/C/Users/eljebus/AppData/Roaming/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/C/Users/eljebus/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/AppServ/www/cazaeventos/Contacto.php",
+		"/C/AppServ/www/cazaeventos/css/contacto.css",
+		"/C/AppServ/www/Curso/prefixfree.js",
+		"/C/AppServ/www/Curso/normalize.css",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/moldec.php",
+		"/C/AppServ/www/Geolocalizacion/js/param.js",
+		"/C/AppServ/www/Geolocalizacion/js/paginas.js",
+		"/C/AppServ/www/cazaeventos/js/coordenadas.js",
+		"/C/AppServ/www/cazaeventos/moviles/css/calendario.css",
+		"/C/AppServ/www/cazaeventos/moviles/themes/estilo.css",
+		"/C/AppServ/www/cazaeventos/moviles/themes/estilo.min.css",
+		"/C/AppServ/www/cazaeventos/moviles/js/param.js",
+		"/C/AppServ/www/prueba/index.php",
+		"/C/Users/eljebus/Desktop/h5bp-html5-boilerplate-3bc5ed9/js/main.js",
+		"/C/Users/eljebus/Desktop/h5bp-html5-boilerplate-3bc5ed9/js/plugins.js",
+		"/C/Users/eljebus/Desktop/h5bp-html5-boilerplate-3bc5ed9/index.html",
+		"/C/AppServ/www/estados/index.php",
+		"/C/AppServ/www/estados/css/style.css",
+		"/C/AppServ/www/estados/estado.php",
+		"/C/AppServ/www/cazaeventos/Modelos/molde.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/header.php"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"bandera",
+			"molde",
+			"click",
+			"enlace",
+			"ui-btn-text",
+			"eventos",
+			"servi",
+			"dashed",
+			"border",
+			"dashed",
+			"#servicios",
+			"servicios",
+			"dialog",
+			"clear",
+			"markers=",
+			"mapa(",
+			"#mmapa",
+			"molde",
+			"mapa(",
+			"mapa()",
+			"mapa",
+			"conso",
+			"e.pre",
+			"mapa",
+			"search",
+			"text-ubication",
+			"confir",
+			"prevent",
+			"open-ubication",
+			"?",
+			".iz",
+			"max-height: 234px;",
+			"canvas",
+			"geoCodeURL",
+			"marker",
+			"cargar",
+			"distancia",
+			"actual",
+			"alert",
+			"this.direc",
+			"updatePosition",
+			"categoria",
+			"mostrar",
+			"direccion",
+			"processGeocoder",
+			"localizacion",
+			"coordena",
+			"processGeocoder",
+			"ajax",
+			"processGeocoder",
+			"rocessGeocoder",
+			"mapa",
+			"processGeocoder",
+			"erro",
+			"languaje",
+			"save",
+			"dashe",
+			"center",
+			"on('c",
+			"catego",
+			"pie",
+			"box",
+			"box-s",
+			"pie",
+			"footer",
+			"box-s",
+			"digits.png",
+			"socia",
+			"alert",
+			"fecha(",
+			"fec",
+			"fecha",
+			"alert",
+			"categoria.php",
+			"categoria",
+			"busca",
+			"alert",
+			"busqueda",
+			"cargar",
+			"molde",
+			"mostrar",
+			"localizar",
+			"Proximos",
+			"alert",
+			"Prox",
+			"encu",
+			"open-ubication",
+			"precision",
+			"dialog-confirm",
+			"#dialog-confirm",
+			"dialog-c",
+			"echo",
+			"dashe",
+			"ser",
+			"servi",
+			"dash",
+			"ef",
+			"aiz",
+			"fecha",
+			"processGeocoder",
+			"busquedas",
+			"ser",
+			"texto",
+			"dashed",
+			"DASHED",
+			"		\n",
+			"alert",
+			"mapa",
+			"estado",
+			"inio",
+			",INTERVAL 1 YEAR",
+			"1 year",
+			"inter",
+			"evento",
+			"mapa",
+			"l1",
+			"sensor",
+			"izq",
+			"iz",
+			"dashe",
+			"foo",
+			"slider",
+			"figcaption",
+			"hover",
+			"diviso",
+			"das",
+			"producto ul",
+			"producto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "moviles/js/direccion.js",
+					"settings":
+					{
+						"buffer_size": 3654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3638,
+								3638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2436.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 5976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3826,
+								3826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1667.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 5962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "moviles/js/localizacion.js",
+					"settings":
+					{
+						"buffer_size": 8079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3735,
+								3735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4190.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "moviles/js/paginas.js",
+					"settings":
+					{
+						"buffer_size": 4098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3044,
+								3044
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4959.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/mapa.js",
+					"settings":
+					{
+						"buffer_size": 1980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								647,
+								751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/evento.css",
+					"settings":
+					{
+						"buffer_size": 1196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1196,
+								1196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2203.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "moviles/css/index.css",
+					"settings":
+					{
+						"buffer_size": 2172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2171,
+								2171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4350.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 57.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true
+}

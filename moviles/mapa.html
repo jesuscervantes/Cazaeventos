@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<title>Rutas</title>
+<script type="text/javascript"
+    src="http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false">
+</script>
+<script type="text/javascript">
+function InicializarMapa() {
+    // establece las opciones y crea el mapa
+
+    
+    posicionJamay = new google.maps.LatLng(20.2950976,-102.7063748);
+
+    posicionGdl = new google.maps.LatLng(20.29527,-102.7056176);
+ 
+   
+    var opcionesRuta = {
+        path: [ posicionJamay, posicionGdl ],
+        geodesic: true
+    };
+
+    var rutaJamay = new google.maps.Polyline(opcionesRuta);
+
+
+    var longitud = google.maps.geometry.spherical.computeLength(rutaJamay.getPath());
+
+   
+    
+    alert(longitud +" km");
+
+
+
+}
+</script>
+</head>
+<body onload="InicializarMapa()">
+<div id="elemento_mapa" style="width: 500px; height: 300px"></div>
+</body>
+</html>

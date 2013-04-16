@@ -1,0 +1,66 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title>C&aacute;lculo de la distancia con la API de Google Maps</title>
+
+    <!-- Es necesario sustituir esta API key con la obtenida en google -->
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAqCGY1L_J5Qin2jIux7DfIxRVmw_V8GGFQldr7a9dtnHBU7OYZhQWtc-C26KFtKXSxbJ4J-gldxzzgA" type="text/javascript"></script>
+
+    <script type="text/javascript">
+    var geocoder, location1, location2;
+
+  function initialize() {
+    geocoder = new GClientGeocoder();
+  }
+
+  function showLocation() {
+    geocoder.getLocations(document.forms[0].address1.value, function (response) {
+      if (!response || response.Status.code != 200){
+        alert("Lo siento, pero hemos sido incapaces de geolocalizar la primera direcci�n");
+      } else {
+        location1 = {lat: response.Placemark[0].Point.coordinates[1], lon: response.Placemark[0].Point.coordinates[0], address: response.Placemark[0].address};
+        geocoder.getLocations(document.forms[0].address2.value, function (response) {
+          if (!response || response.Status.code != 200){
+            alert("Lo siento, pero hemos sido incapaces de geolocalizar la segunda direcci�n");
+          } else {
+            location2 = {lat: response.Placemark[0].Point.coordinates[1], lon: response.Placemark[0].Point.coordinates[0], address: response.Placemark[0].address};
+            calculateDistance();
+          }
+        });
+      }
+    });
+  }
+  
+  function calculateDistance(){
+    try{
+      var glatlng1 = new GLatLng(location1.lat, location1.lon);
+      var glatlng2 = new GLatLng(location2.lat, location2.lon);
+      var miledistance = glatlng1.distanceFrom(glatlng2, 3959).toFixed(1);
+      var kmdistance = (miledistance * 1.609344).toFixed(1);
+      document.getElementById('results').innerHTML = '<strong>Direcci&oacute;n 1: </strong>' + location1.address + ' (' + location1.lat + ':' + location1.lon + ')<br /><strong>Direcci&oacute;n 2: </strong>' + location2.address + ' (' + location2.lat + ':' + location2.lon + ')<br /><strong>Distancia: </strong>' + kmdistance + ' kil&oacute;metros (o ' + miledistance + ' millas)';
+    } catch (error) {
+      alert(error);
+    }
+  }
+
+    </script>
+
+  </head>
+
+  <body onload="initialize()">
+
+    <form action="#" onsubmit="showLocation(); return false;">
+      <p>
+        <input type="text" name="address1" value="Direccion 1" class="address_input" size="40" />
+        <input type="text" name="address2" value="Direccion 2" class="address_input" size="40" />
+        <input type="submit" name="find" value="Distancia" />
+      </p>
+
+    </form>
+    <p id="results"></p>
+
+  </body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<title>Multi-page template</title> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
+	<link rel="stylesheet" href="themes/estilo.css" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.1/jquery.mobile.structure-1.1.1.min.css" />
+</head> 
+
+<style type="text/css">
+
+#primera
+{
+	background-image: url(imagenes/fondo.jpg);
+	background-size: 100% 100%;
+	height: 100%;
+}
+#logo
+{
+	max-width: 300px;
+	margin-top: 0px;
+}
+#pie
+{
+	background-image: url(imagenes/pie.png);
+	background-size: 100% 100%;
+	
+	border-color: #002445;
+	color: #fff;
+	min-height: 120px;
+
+}
+#one
+{
+	background-color:#002445; 
+}
+#opciones
+{
+	overflow: hidden;
+}
+#opciones ul
+{
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-top: 75px;
+
+
+}
+#opciones ul li
+{
+	display: inline-block;
+	width: 45%;
+	height: 120px;
+	border:solid 1px;
+	margin-left: 0px;
+
+
+}
+
+</style>
+
+	
+<body> 
+
+<!-- Start of first page: #one -->
+<div data-role="page" id="one" style="background-color:#002445">
+
+
+	<div data-role="content"  id="primera">	
+
+		<center><img src="imagenes/letrero.png" id="logo"></center>
+
+		<section id="opciones">
+
+			<center><ul>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul></center>
+		</section>
+		
+	</div><!-- /content -->
+	
+	<div data-role="footer" data-theme="d"  id="pie" >
+		<h4>Page Footer</h4>
+	</div><!-- /footer -->
+</div><!-- /page one -->
+
+
+
+
+</body>
+</html>

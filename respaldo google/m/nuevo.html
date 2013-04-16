@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Event Point</title>
+		<link rel="stylesheet" href="themes/estilo.min.css" />
+		<link href='http://fonts.googleapis.com/css?family=Duru+Sans|Baumans' rel='stylesheet' type='text/css'>
+	
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.1/jquery.mobile.structure-1.1.1.min.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+		<script src="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
+		<link rel="stylesheet" href="css/index.css" id="estilo"/>
+		<link rel="stylesheet" href="" id="localizacion"/>
+		<link rel="stylesheet" href="" id="calendario"/>
+		<script src="js/localizacion.js"></script>
+
+		<script type="text/javascript">
+
+
+
+	$('#dos').live('pageinit',function(event){
+		
+  				var elemento=$("#eventos");
+  				document.getElementById('localizacion').href='css/localizacion.css';
+				element=elemento;
+				localizacion(elemento,coordenadas);
+
+				$("#eventos").css("border-radius","10px");
+		
+		});
+
+	$('#tres').live('pageinit',function(event){
+		
+  				
+  			document.getElementById('calendario').href='css/calendario.css';
+				
+  			});
+	
+
+		
+
+		</script>
+
+
+
+
+		<script type="text/javascript">
+
+			$(document).ready(function() {
+				
+				$("a").css("color","white");
+			});
+		</script>
+	</head>
+	<body>
+		<div data-role="page" data-theme="a" id="one">
+			
+			<div data-role="content" data-theme="a" id="primera">
+				<center>
+					<img src="imagenes/letrero.png" id="logo">
+					<p id="slogan">Encuentra tu evento</p>
+				</center>
+
+				<section id="opciones">
+
+					<center>
+						<ul>
+							<a href="#dos"  id="geo">
+								<li>
+									<img src="imagenes/1.png">
+									<p>Cerca de mi</p>
+								</li>
+							</a>
+
+							<a href="#tres"  id="geo">
+								<li>
+									<img src="imagenes/2.png">
+									<p> Calendario</p>
+								</li>
+							</a>
+							<a href="#tres"  id="geo">
+								<li>
+									<img src="imagenes/3.png">
+									<p>Buscar</p>
+								</li>
+							</a>
+						</ul>
+					</center>
+				</section>
+
+			
+			</div>
+
+			<div data-role="footer" data-theme="a" id="pie" data-position="fixed">
+				<p>Sitio Completo</p>
+				<p style="text-align:right">Registrarse</p>
+				<center>
+					<img src="imagenes/nube.png">
+					<p style="width:100%;margin-top:0px;">Mind On Cloud</p>
+				</center>
+
+
+			</div>
+
+
+
+
+		</div>
+
+
+
+
+		<!-- pagina 2 !-->
+
+		<div data-role="page" data-theme="a" id="dos" data-inset="false">
+
+
+			<div data-role="header" data-theme="a" class="cabecera">
+
+				<a href="../../" data-icon="home" data-iconpos="notext" >Home</a>
+				<a href="../nav.html" data-icon="menu" data-iconpos="notext"  data-transition="fade">Search</a>
+				<center><img src="imagenes/letrero.png"></center>
+			</div>
+
+
+
+
+
+			<div data-role="content" data-theme="a" id="segunda">
+			
+				<center><div class="ubicacion"><img src="imagenes/mono.png" id="mono"></div>
+				<div class="ubicacion" id="dom"><p id="estado">Mi Ubicacion</p></div></center>
+
+				<p class="eventos" id="le">Eventos Cercanos</p>
+				<div id="dt">
+
+					<ul data-role="listview" data-theme="a" data-inset="true"data-divider-theme="a" id="eventos">
+
+					</Ul>
+					
+				</div>
+
+
+				
+				
+			</div>
+
+
+
+
+			<div data-role="footer" data-theme="a" id="pie" data-position="fixed">
+				<p>Sitio Completo</p>
+				<p style="text-align:right">Registrarse</p>
+				<center>
+					<img src="imagenes/nube.png">
+					<p style="width:100%;margin-top:0px;">Mind On Cloud</p>
+				</center>
+
+
+			</div>
+
+
+
+
+		</div>
+
+
+
+		<!-- Pagina 3 -->
+
+		<div data-role="page" data-theme="a" id="tres">
+
+
+
+			<div data-role="header" data-theme="a" class="cabecera">
+				<a href="../../" data-icon="home" data-iconpos="notext" >Home</a>
+				<a href="../nav.html" data-icon="menu" data-iconpos="notext"  data-transition="fade">Search</a>
+				<center><img src="imagenes/letrero.png"></center>
+			</div>
+
+
+
+
+
+			<div data-role="content" data-theme="a">
+
+				<div id="logo">
+
+					<div id="imagen">
+						<img src="imagenes/categorias/CALENDARIO.png">
+					</div>
+				
+					<h1 id="nombre">
+						 Próximos Eventos
+
+					</h1>	
+
+			    </div>
+
+				<div id="luagres">
+
+				 <center> <ul class="lista"> 
+
+				 	
+					<li><img src="imagenes/restaurantes.png"></li>
+						<li><img src="imagenes/deportes.png"></li>
+						<li><img align=center<img src="imagenes/bar.png"></li>
+						 <li><img src="imagenes/musica.png"></li>
+						 <li><img src="imagenes/cultura.png"></li>
+						  <li><img src="imagenes/cultura.png"></li>
+						   <li><img src="imagenes/cultura.png"></li>
+						   <li><img src="imagenes/cultura.png"></li>
+						   <li><img src="imagenes/cultura.png"></li>
+						   <li><img src="imagenes/cultura.png"></li>
+					</ul> </center>
+
+				</div>
+
+				<div data-role="footer" data-theme="a" id="pie" data-position="fixed">
+				<p>Sitio Completo</p>
+				<p style="text-align:right">Registrarse</p>
+				<center>
+					<img src="imagenes/nube.png">
+					<p style="width:100%;margin-top:0px;">Mind On Cloud</p>
+				</center>
+
+
+			</div>
+
+		
+
+				
+			</div>
+
+
+
+
+		
+	</body>
+</html>

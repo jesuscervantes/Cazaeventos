@@ -1,0 +1,574 @@
+	a
+	{
+		text-decoration: none;
+		color:#fff;
+	}
+	a img
+	{
+		border: none;
+	}
+
+	a .mind
+	{
+		font-weight: bold;
+	}
+
+	body
+	{
+		background-color: #045aa7;
+		color:#fff;
+		font-family: 'Baumans', cursive;
+		margin: 0;
+		margin-top: 0px;
+		padding: 0px;
+		padding-left: 0%;
+		padding-right: 0%;
+		padding-top: 0%;
+		text-shadow:rgba(0,0,0,0.3) 1px 0 2px;
+		
+		
+	}
+
+	footer
+	{
+		
+		box-shadow: 0px -2px 5px #000;
+		background-color: #363833;
+		height:270px;
+		margin-top: 20px;
+		width: 100%;
+		padding-top: 25px;
+
+	}
+
+	h1
+	{
+		color: #fff;
+		font-size: 26px;
+		font-weight: bolder;
+
+	}
+
+	header,.contenedor
+	{
+		max-width: 800px;
+		margin: auto;
+		z-index: 2;
+	}
+	input,textarea
+	{
+		background-image:url(imagenes/ftext.png); 
+  		background-size: 100% 100%;
+	}
+
+
+	header
+	{
+		background-size: 100% 100%;
+		height: 125px;
+		overflow: hidden;
+		position: relative;	
+	}
+
+	nav
+	{
+		height: 110px;
+		float: left;
+		margin-top: 15px;
+		width: 62.29%;
+		
+		
+	}
+
+	nav ul
+	{
+		
+		margin-top: 0px;
+		list-style: none;
+		padding-left: 0px;
+		padding-top: 0px;
+		padding-bottom: 5px;	
+		width: 100%;
+		font-size: 0px;
+		
+
+		
+	}
+
+	nav ul li
+	{
+		border-color:#024581;
+		border-radius: 10px;
+		color: #FFF;
+		display: inline-block;
+		font-weight: bolder;
+		font-size: 18px;
+		float: left;
+		margin-left: 0px;
+		padding: 10px;	
+		text-align: center;
+		text-shadow: 0px 0px 12px #fff;
+		width: 26.5%;
+		
+	}
+
+	nav li img
+	{
+		box-shadow: 0px 0px 12px #fff;
+		border-radius: 8px;
+		height: 55px;
+		width:55px;
+	}
+	nav p
+	{
+		margin-top: 5px;
+	}
+	*:focus {outline: none;}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	#contenin
+	{
+		border-top-left-radius: 15px;
+		border-top-right-radius: 15px;
+		overflow: hidden;
+	}
+	#contenedor_interno
+	{
+		overflow: hidden;
+		
+	}
+
+
+
+	#fb-root
+	{
+		float:left;
+		height: 50px;
+		margin-top: 50px;
+		margin-left: 60%;
+		position: absolute;
+		z-index: 8;
+	
+		width: 100px;
+		color:#fff;
+		overflow: hidden;
+
+		
+	}
+	#gplus
+	{
+		
+		float: right;
+		margin-top: 50px;
+		z-index: 9;
+	}
+	.qWa a
+	{
+		color:#fff;
+	}
+
+	#gallery
+	{
+		height: 278px;
+		overflow: hidden;	
+	}
+
+	#inicio
+	{
+		text-align: left;
+		width: 20%;		
+	}
+
+	#ingresar
+	{
+		width: 34%;
+	}
+
+	#luz1
+	{
+		color: #012547;
+		float: right;
+		font-size: 22px;
+		font-weight: bolder;
+		margin-top: 50px;
+		padding-right: 8px;	
+		text-align: right;
+		text-shadow: 0px 0px 15px #fff;
+		max-width: 350px;
+	}
+
+	#letras
+	{
+		float: left;
+		margin-top: -10px;
+		overflow: hidden;
+		
+		width:62%;
+		
+	}
+	#letras p
+	{
+		max-width: 428px;
+	}
+
+	#linea
+	{
+		background-color: #363833;
+		border:0px;
+		height: 20px;
+		margin-top: 0px;	
+	}
+	#logo
+	{
+		background-image: url(cabecera.png);
+		background-size: 100% 100%;
+		overflow: hidden;
+		padding-bottom: 30px;
+		width: 100%;
+	}
+	
+	#prox
+	{
+		display: none;
+	}
+
+	#proximos 
+	{
+		text-align: center;
+	}
+
+	#proximos p
+	{
+		margin-left: 0px;
+		text-align: center;
+	}
+
+	#promciones
+	{
+		background-image:url(promociones.png); 
+		border-bottom-left-radius: 15px;
+		border-bottom-right-radius: 15px;
+		height: 70px;
+		margin-top: 0px;
+		overflow: hidden;
+		width: 100%;
+	
+	}
+	
+
+	#promciones li.inact .seccion,#promciones li.inact .numero
+	{
+		color: #13a6ea;
+	}
+	
+
+	#promciones li.act a .seccion,#promciones li.act a .numero
+	{
+
+	    cursor:default;
+	    color:#fff;
+
+	}
+	#pie li
+	{
+		cursor: pointer;
+	}
+
+	#social
+	{
+		float: right;
+		width: 36.8%;
+		vertical-align: top;
+		
+
+	}
+
+
+	#social ul,#servicios ul,#promciones,#pie ul
+	{
+		list-style: none;
+		margin-left: 0px;
+		padding-left: 0px;
+		width: 100%;
+	}	
+	#pie ul
+	{
+		margin: auto;
+		max-width: 800px;
+		overflow: hidden;
+		margin-top: 8px;
+	}
+
+	#social li,#servicios li,#promciones li,#pie li
+	{
+		display: inline-block;
+		width: 32%;
+		text-align: center;
+	
+	}
+	#social li,#pie li
+	{
+		float:left;
+
+	}
+
+
+
+	#servicios li,#pie li
+	{
+		width: 32.5%;
+		text-align: left;
+		
+	}
+	#servicios p
+	{
+		color: #fff;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+		margin-top: -5px;
+		text-align: left;
+	}
+	#social img
+	{
+		width: 70px;
+	}
+	#servicios
+	{
+		width: 100%;
+		overflow: hidden;
+		
+	}
+	#servicios img
+	{
+		width: 200px;
+
+	}
+	#servicios li
+	{
+		vertical-align:baseline;
+		
+	}
+
+	#slider
+	{
+		background-image:url(slider0.png); 
+		background-size: 100% 100%;
+		border-radius: 10px; 	
+		height: 350px;
+		margin-top: 40px;
+		overflow: hidden;
+		padding-bottom: 50px;
+		padding-top: 20px;
+		width: 99%;
+	}
+		#uno,#dos,#tres
+	{
+		background-image:url(slider.png);
+		height: 278px;
+		overflow: hidden;
+		width:33% ;
+		
+
+	}
+
+
+	#servicios p
+	{
+		text-align: center;
+	}	
+	#busquedas p
+	{	
+		text-align: center;
+		margin-right: 65px;
+		margin-left: 40%;
+	}
+	#zerca p
+	{
+		text-align: left;
+		margin-left:12%
+		
+	}
+	#zletras
+	{
+		width: 100%;
+		overflow: hidden;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.contenedor
+	{
+		margin-top: 10px;
+		overflow: hidden;
+		padding-left: 10px;
+		padding-right: 10px;
+		min-height: 550px;
+		
+	}
+	.derecho
+	{
+		float: right;
+		height: 278px;
+		text-align: right;
+	}
+	.derecho img,.izquierdo img
+	{
+		height: 250px;
+
+	}
+	
+
+
+
+	.fb-like
+	{
+
+		padding: 5px;
+	}
+	.izquierdo,.derecho
+	{
+		float:left;
+		padding-left: 4%;
+		padding-right: 4%;
+		width: 42%;
+	}
+
+	.logo
+	{
+		float: left;
+		width:400px;
+		margin-top:40px;
+		vertical-align: top;
+	}
+	
+	.logo img
+	{
+		width: 100%;
+	
+	}
+
+
+	.numero
+	{
+		border-radius: 50%;
+
+		background-color: #045aa7;
+		color: #fff;
+		display: inline-block;
+		font-weight: bold;
+		font-size: 50px;
+		margin-top: 5px;
+		margin-left: 15px;
+		vertical-align: top;
+		width: 60px;
+	}
+
+	.slide
+	{
+		float:left;
+	}
+	
+	.seccion
+	{
+		color: #fff;
+		display: inline-block;
+		font-size: 20px;
+		vertical-align: top;
+		width: 60%;
+	}
+		.textop
+	{
+		color: #fff;
+		font-size: 19px;
+	}
+		.ultimo
+	{
+		margin-right: 0px;
+	}
+
+
+		#busquedas img
+	{
+		text-align: right;
+		margin-left: 50px;
+		
+	}
+
+
+	#promciones li .numero
+	{
+		display: inline-block;
+	}
+
+		#promciones li
+	{
+	
+		height: 100%;
+		margin-left: -5px;
+		width:33.33%;
+		
+	}
+	#proximos img
+	{
+		text-align: center;
+		width: 171px;
+	}
+
+
+	
+
+	
+
+
+
+	
+
+	

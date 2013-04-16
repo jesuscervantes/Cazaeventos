@@ -1,0 +1,23 @@
+[25-Nov-2012 01:14:43 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[25-Nov-2012 01:15:25 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[25-Nov-2012 01:16:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[25-Nov-2012 01:22:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[25-Nov-2012 01:22:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[25-Nov-2012 01:23:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[25-Nov-2012 01:23:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[25-Nov-2012 01:23:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[25-Nov-2012 01:23:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[25-Nov-2012 01:24:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[25-Nov-2012 01:25:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cazaeven/public_html/m/Vistas/Proximos.php on line 7
+[02-Jan-2013 15:01:50 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[02-Jan-2013 15:02:36 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[02-Jan-2013 15:06:27 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[03-Jan-2013 15:54:28 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/cazaeven/public_html/m/Vistas/Prox.php on line 42
+[03-Jan-2013 15:54:38 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/cazaeven/public_html/m/Vistas/Prox.php on line 42
+[03-Jan-2013 15:55:14 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/cazaeven/public_html/m/Vistas/Prox.php on line 42
+[03-Jan-2013 16:04:20 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/cazaeven/public_html/m/Vistas/Prox.php on line 42
+[03-Jan-2013 16:04:37 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/cazaeven/public_html/m/Vistas/Prox.php on line 42
+[03-Jan-2013 16:05:18 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[03-Jan-2013 16:05:40 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[03-Jan-2013 16:06:22 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39
+[21-Jan-2013 16:07:12 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/m/Conexion.php on line 39

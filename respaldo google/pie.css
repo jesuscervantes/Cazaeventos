@@ -1,0 +1,28 @@
+c#pie
+{
+	max-width: 800px;
+	margin: auto;
+	padding-top: 20px;
+}
+#pie img
+{
+	width: 250px;
+}
+
+#pie li
+{
+	text-align: center;
+	font-size: 22px;
+	border-left:solid 2px;
+
+	
+	color:#ddd;
+}
+#pie p
+{
+	font-size: 16px;
+	text-align: center;
+	color:#ddd;
+	margin-top: 50px;
+
+}

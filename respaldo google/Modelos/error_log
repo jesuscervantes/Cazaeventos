@@ -1,0 +1,137 @@
+[25-Nov-2012 00:33:28 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:33:30 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:33:31 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:33:32 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:33:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:33:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:34:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:34:55 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:34:56 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:34:58 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[25-Nov-2012 00:36:42 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 19:59:32 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 19:59:32 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 19:59:52 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 19:59:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 20:00:27 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 20:00:27 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 20:00:43 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 20:00:43 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 20:01:08 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[26-Nov-2012 20:01:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 18:56:11 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 18:56:11 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 18:56:18 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 18:56:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 18:56:26 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 18:56:26 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 19:00:41 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 19:00:41 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 19:34:35 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[28-Nov-2012 19:34:35 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[21-Dec-2012 16:13:02 America/New_York] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/Conexion.php on line 10
+[21-Dec-2012 16:13:02 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/Conexion.php on line 11
+[21-Dec-2012 16:13:02 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/Conexion.php on line 38
+[21-Dec-2012 16:13:02 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 38
+[21-Dec-2012 16:13:36 America/New_York] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cazaeven/public_html/Conexion.php on line 10
+[21-Dec-2012 16:13:36 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/Conexion.php on line 11
+[21-Dec-2012 16:13:36 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/Conexion.php on line 38
+[21-Dec-2012 16:13:36 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 38
+[21-Dec-2012 16:45:16 America/New_York] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'cazaeven'@'localhost' (using password: NO) in /home/cazaeven/public_html/Conexion.php on line 11
+[21-Dec-2012 16:45:16 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/Conexion.php on line 12
+[21-Dec-2012 16:45:16 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/cazaeven/public_html/Conexion.php on line 39
+[21-Dec-2012 16:45:16 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[21-Dec-2012 16:48:29 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[24-Dec-2012 14:46:08 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[24-Dec-2012 14:46:08 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[30-Dec-2012 14:50:13 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[30-Dec-2012 14:50:13 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[31-Dec-2012 12:13:11 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[31-Dec-2012 12:13:11 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[31-Dec-2012 12:15:29 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[31-Dec-2012 12:15:29 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 14:49:48 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:49:48 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:49:48 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:49:48 America/New_York] PHP Fatal error:  Class 'Conexion' not found in /home/cazaeven/public_html/Modelos/categoria.php on line 33
+[03-Jan-2013 14:50:07 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:50:07 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:50:07 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:50:07 America/New_York] PHP Fatal error:  Class 'Conexion' not found in /home/cazaeven/public_html/Modelos/categoria.php on line 33
+[03-Jan-2013 14:50:25 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:50:25 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:50:25 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cazaeven/public_html/Modelos/categoria.php on line 31
+[03-Jan-2013 14:50:25 America/New_York] PHP Fatal error:  Class 'Conexion' not found in /home/cazaeven/public_html/Modelos/categoria.php on line 33
+[03-Jan-2013 14:52:37 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/cat.php on line 31
+[03-Jan-2013 14:52:37 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/cat.php on line 31
+[03-Jan-2013 14:52:37 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cazaeven/public_html/Modelos/cat.php on line 31
+[03-Jan-2013 14:52:37 America/New_York] PHP Fatal error:  Class 'Conexion' not found in /home/cazaeven/public_html/Modelos/cat.php on line 33
+[03-Jan-2013 14:52:47 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/cat.php on line 31
+[03-Jan-2013 14:52:47 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/cat.php on line 31
+[03-Jan-2013 14:52:47 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cazaeven/public_html/Modelos/cat.php on line 31
+[03-Jan-2013 14:52:47 America/New_York] PHP Fatal error:  Class 'Conexion' not found in /home/cazaeven/public_html/Modelos/cat.php on line 33
+[03-Jan-2013 14:53:50 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 14:53:59 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/molde.php on line 3
+[03-Jan-2013 14:53:59 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/molde.php on line 3
+[03-Jan-2013 14:53:59 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cazaeven/public_html/Modelos/molde.php on line 3
+[03-Jan-2013 14:53:59 America/New_York] PHP Fatal error:  Class 'Conexion' not found in /home/cazaeven/public_html/Modelos/molde.php on line 5
+[03-Jan-2013 14:54:33 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 14:54:33 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 14:54:55 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/cerdo.php on line 31
+[03-Jan-2013 14:54:55 America/New_York] PHP Warning:  include(Conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cazaeven/public_html/Modelos/cerdo.php on line 31
+[03-Jan-2013 14:54:55 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cazaeven/public_html/Modelos/cerdo.php on line 31
+[03-Jan-2013 14:54:55 America/New_York] PHP Fatal error:  Class 'Conexion' not found in /home/cazaeven/public_html/Modelos/cerdo.php on line 33
+[03-Jan-2013 15:00:09 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 15:02:17 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 15:03:56 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 15:04:38 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 15:05:47 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 15:22:08 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[03-Jan-2013 15:23:10 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[04-Jan-2013 13:46:14 America/New_York] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cazaeven/public_html/Conexion.php on line 39
+[04-Jan-2013 13:46:14 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[12-Jan-2013 16:51:42 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[12-Jan-2013 17:22:41 America/New_York] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/cazaeven/public_html/Modelos/Eventos.php on line 41
+[12-Jan-2013 20:13:02 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[12-Jan-2013 20:13:03 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[12-Jan-2013 20:13:03 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[12-Jan-2013 20:45:51 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[12-Jan-2013 21:36:17 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[12-Jan-2013 22:17:57 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[13-Jan-2013 14:20:01 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[13-Jan-2013 14:20:01 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[13-Jan-2013 18:08:53 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[13-Jan-2013 18:09:01 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[13-Jan-2013 18:09:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[13-Jan-2013 18:09:06 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:27:14 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:27:28 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:28:56 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:00 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:08 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:35 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:41 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:46 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:50 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:29:53 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:34:10 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:34:13 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:34:49 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:36:45 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:36:59 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:37:03 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:37:07 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:38:16 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:38:24 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[14-Jan-2013 15:40:33 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[17-Jan-2013 13:44:19 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[17-Jan-2013 17:06:11 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[17-Jan-2013 17:16:33 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[18-Jan-2013 12:23:04 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[18-Jan-2013 12:23:53 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[18-Jan-2013 12:24:21 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[18-Jan-2013 12:24:32 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[23-Jan-2013 11:29:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[08-Mar-2013 13:27:54 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39
+[08-Mar-2013 13:28:58 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/cazaeven/public_html/Conexion.php on line 39

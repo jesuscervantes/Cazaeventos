@@ -1,0 +1,211 @@
+
+	
+	.aventos
+	{
+		
+		margin-bottom: 5px;
+		overflow: hidden;
+
+	}
+	.aparrafos
+	{
+		width:68%;
+		float:right;
+		
+		
+	}
+	.aimagen
+	{
+		float: left;
+		
+		width:31%;
+		overflow: hidden;
+	}
+	 .aimagen img
+	 {
+	 	height: 100px;
+	 }
+	 .lugar
+		{
+	
+			margin-bottom: 0px;
+			margin-top: 0;
+			font-weight: bold;
+		}
+		.hora
+		{
+			
+			font-size: 15px;
+			margin: 0;
+			margin-top: 7px;
+
+		}
+		.descripcion
+		{
+			margin-top: 0px;
+		}
+
+	#mono
+	{
+		height:120px;
+	}
+	#dom
+	{
+		overflow: hidden;
+		
+	}
+	#dom p
+	{
+		margin-top: 0px;
+		
+		font-size: 10px;
+	}
+
+	.list-divider
+	{
+		background-color: #052555;
+		padding: 7px;
+		border:solid 1px;
+		border-color:#fff;
+		border-radius: 10px;
+		font-weight: bold;
+		font-size: 20px;
+		margin-top: 15px;
+	}
+	.enlace
+	{
+		font-size: 18px;
+		background-color: #05336b;
+		border-radius: 10px;
+		padding-bottom:10px; 
+		overflow: hidden;
+		margin-top: 10px;
+	}
+	#eventos
+	{
+		list-style: none;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	#eventos a
+	{
+		color: #fff;
+	}
+	.titulo
+	{
+		text-align: center;
+		background-color: #09448b;
+		margin-top:0px;
+		padding: 2px;
+		font-size: 20px;
+		
+		margin-bottom: 5px;
+	}
+	.precision
+	{
+		font-size: 16px;
+	}
+
+
+
+	#ui-datepicker-div
+	{
+		font-family: 'Baumans', cursive;
+	}
+
+	#distancia
+	{
+		color:#fff;
+		font-weight: bold;
+		font-size: 20px;
+
+	}
+	#amount
+	{
+		text-align: center;
+		background-color: #045aa7;
+		color:#fff;
+		width: 100px;	
+		background-image:none;
+	}
+	.ui-slider
+	{
+		border-color: #fff;
+		background-color:#fff; 
+	}
+	#barra
+	{
+		box-shadow: 0px 0px 6px #fff;
+		background-image:url(imagenes/barra.png); 
+		width: 99%;	
+	}
+	#dialog-confirm
+	{
+		width: 0;
+		height: 0;
+		overflow: hidden;
+	}
+	#data-coords
+	{	
+		font-size: 16px;
+
+	}
+
+	#l1
+	{
+		font-size: 20px;
+	}
+
+	#open-ubication,#open-confirm
+	{
+	
+		color: #02285c;
+		cursor: pointer;
+		font-size: 17px;
+		font-weight: bold;
+		text-shadow: 0px 0px 5px #fff;
+		overflow: hidden;
+	}
+	#text-ubication
+	{
+		border-radius: 10px;
+    	margin-bottom: 10px;
+    	border:solid 1px;
+    	border-color:#ccc;
+    	padding:7px;
+    	width: 400px; 
+    	background: #fff;
+	}
+	#mapa-direction
+	{
+		border-radius:7px;
+		height: 200px;
+		width: 415px;
+		overflow: hidden;
+
+	}
+	#direction-buttom
+	{
+		background-image:url(imagenes/fboton.png);
+		background-size: 100% 100%; 
+		border-radius: 10px;
+		color: #045aa7;
+		cursor: pointer;
+		font-weight: bold;
+		padding:5px;
+		text-align: center;
+		text-shadow:none;
+		display: none;
+		width: 405px;
+	}
+	#dialog-direction
+	{
+		display: none;
+	}
+
+
+
+
+
+
+
